@@ -37,8 +37,22 @@ body {
 	height: 60px;
 }
 
-img {
+.cir {
 	border: 2px solid black;
 }
+
+.midContent {
+	background-color: rgba(50, 50, 50, .7);
+	color: white;
+	width: 100%;
+	margin: 20px 0px;
+	max-width: 100%;
+	padding: 0;
+}
+
+#midContent {
+	float: left;
+}
+
 
 
