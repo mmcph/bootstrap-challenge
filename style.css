@@ -1,0 +1,44 @@
+body {
+	width: 100%;
+	font-family: 'Anonymous Pro', monospace;
+	background: url("https://afinde-production.s3.amazonaws.com/uploads/Thinking_Face_Emoji.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: contain;
+	-moz-background-size: contain;
+	-o-background-size: contain;
+	background-size: contain;
+}
+
+#navbarSupportedContent ul {
+	float: right;
+}
+
+.jumbotron {
+	margin: 20px auto;
+	max-width: 90%;
+	background-color: rgba(50, 50, 50, .7);
+	color: white;
+}
+
+.hodor {
+	background-color: rgba(50, 50, 50, .7);
+	color: white;
+	margin-top: 20px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.footer {
+	width: 100%;
+	background-color: gray;
+	color: white;
+	height: 60px;
+}
+
+img {
+	border: 2px solid black;
+}
+
+
